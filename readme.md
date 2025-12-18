@@ -17,7 +17,7 @@ This project simplifies the process of finding financial aid and managing schola
 ---
 
 ## 🌐 Live Site
-🔗 **Live URL:** 
+🔗 **Live URL:** https://stupendous-tiramisu-f7499a.netlify.app/
 
 ---
 
