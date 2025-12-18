@@ -17,13 +17,13 @@ This project simplifies the process of finding financial aid and managing schola
 ---
 
 ## 🌐 Live Site
-🔗 **Live URL:** https://your-live-site-link.com
+🔗 **Live URL:** 
 
 ---
 
 ## 📂 GitHub Repositories
-- **Client Repository:** https://github.com/your-username/scholarstream-client  
-- **Server Repository:** https://github.com/your-username/scholarstream-server  
+- **Client Repository:** https://github.com/buildsbyranbir/scholarstream.git  
+- **Server Repository:** https://github.com/buildsbyranbir/scholarstream-server.git
 
 ---
 
